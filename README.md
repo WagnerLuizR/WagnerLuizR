@@ -7,9 +7,9 @@
  
  <p align="left">
   <a href="https://github.com/antisocialedin">
-   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WagnerLuizR&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues,contribs" />
+   <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WagnerLuizR&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues,contribs" />
 
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerLuizR&&layout=compact&theme=radical" />
+   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerLuizR&&layout=compact&theme=radical" />
  </a>
 </p>
 
