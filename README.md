@@ -1,4 +1,3 @@
-# My Presentation
 ### I'm Wagner Luiz R. Serafim
   - Industrial Automation Technician
   - Computer Engineering student at IFSP - Campus Birigui
