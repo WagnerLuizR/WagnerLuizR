@@ -1,5 +1,5 @@
 ### I'm Wagner Luiz R. Serafim
-  - Industrial Automation Technician
+  - Industrial Automation Technician at IFSP - Campus Birigui
   - Computer Engineering student at IFSP - Campus Birigui
   - Intern at Solinftec as Developer
 <div style="display: inline_block"><br>
